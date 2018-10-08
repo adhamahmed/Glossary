@@ -10,4 +10,4 @@ D3 Evaluate the use of an IDE  for  development  of  applic ations  c ontrasted 
 
 P4 Explain  the  debugging  process and explain  the debugging  facilities  available  in  the  IDE
 
-D4 Crit ic ally  evaluat e  why  a coding standard is necessary in a team as well as for the individual
+D4 Critically  evaluate  why  a coding standard is necessary in a team as well as for the individual
