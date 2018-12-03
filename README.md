@@ -2,13 +2,14 @@
 
 ### P1 Provide a definition of what an algorithm is and outline the process in building an application
 
-An algorithm is a step by step process to accomplish a task. Within programming, it has a start, a middle, and an end. It is often written as pseudocode, such as a flowchart. It will always lead to be the most effective solution that the programmer can come up with.
+An algorithm is a step by step process to accomplish a task. It is a well-defined procedure or formula which allows a computer to solve a problem, based on conducting a sequence of specified actions. Within programming, it has a start, a middle, and an end. It is often written as pseudocode, such as a flowchart.
 
 When building an application, the process usually follows a lifecycle model, such as the Waterfall Model which follows the steps:
-- Identifying the basic requirements of the application using market research
-- Create designs and prototypes from the concept
-- Small parts are implemented and tested
-- The application is continually tweaked until possible release
+- Identifying the basic requirements of the application
+- Create designs from the requirements
+- Designs are handed to programmers who create the prototypes
+- Prototypes are then tested by a focus group
+- The application is continually maintained until possible release
 
 
 ### M1 Determine the steps taken from writing code to execution
