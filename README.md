@@ -5,11 +5,11 @@
 An algorithm is a step by step process to accomplish a task. It is a well-defined procedure or formula which allows a computer to solve a problem, based on conducting a sequence of specified actions. Within programming, it has a start, a middle, and an end. It is often written as pseudocode, such as a flowchart.
 
 When building an application, the process usually follows a lifecycle model, such as the Waterfall Model which follows the steps:
-- Identifying the basic requirements of the application
-- Create designs from the requirements
-- Designs are handed to programmers who create the prototypes
-- Prototypes are then tested by a focus group
-- The application is continually maintained until possible release
+- Identifying the basic requirements of the application from the client, which will dictate the rest of the development
+- Create designs and plan the rest of the project, such as how the requirements will be met and implemented
+- Designs are handed to programmers to create the prototypes, mainly focused on the requirements
+- Prototypes are then tested by a focus group, making sure the code works correctly and ensure stability of the application
+- The application is continually maintained until possible release, such as bug fixing and updating to keep up to date
 
 
 ### M1 Determine the steps taken from writing code to execution
