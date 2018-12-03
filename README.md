@@ -4,7 +4,7 @@
 
 An algorithm is a step by step process to accomplish a task. Within programming, it has a start, a middle, and an end. It is often written as pseudocode, such as a flowchart. It will always lead to be the most effective solution that the programmer can come up with.
 
-When building an application, the process usually follows a lifecycle model:
+When building an application, the process usually follows a lifecycle model, such as the Waterfall Model which follows the steps:
 - Identifying the basic requirements of the application using market research
 - Create designs and prototypes from the concept
 - Small parts are implemented and tested
