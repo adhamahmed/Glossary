@@ -12,9 +12,6 @@
 ### M2 Analyse the common features that a developer has access to in an IDE
 
 
-### D3 Evaluate the use of an IDE for development of applications contrasted with not using an IDE
-
-
 ### P4 Explain the debugging process and explain the debugging facilities available in the IDE
 
 
