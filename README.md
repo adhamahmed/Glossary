@@ -18,13 +18,13 @@ When building an application, the process usually follows a lifecycle model, suc
 
 ### P2 Give explanations of what procedural, object orientated and event driven paradigms are; their characteristics and the relationship between them
 
-#### Procedural Paradigm
+#### Procedural paradigm
 The procedural programming paradigm is concerned with defining a linear procedure or sequence of programming statements. A key feature of the paradigm is the partitioning of functionality into small reusable modules called procedures, that act like small programs themselves with their own scope, inputs and outputs.
 
-#### Object Orientated Paradigm
+#### Object orientated paradigm
 The object oriented programming paradigm is concerned with modeling problems in terms of entities called objects that have attributes and behaviors and interact with other entities using message passing (calling methods on other entities).
 
-#### Event Driven Paradigm
+#### Event driven paradigm
 Event driven programming is a programming paradigm in which the flow of program execution is determined by events - for example a user action such as a mouse click, key press, or a message from the operating system or another program. An event driven application is designed to detect events as they occur, and then deal with them using an appropriate event-handling procedure. 
 
 #### Relationship between paradigms
