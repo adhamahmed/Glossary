@@ -18,13 +18,17 @@ When building an application, the process usually follows a lifecycle model, suc
 
 ### P2 Give explanations of what procedural, object orientated and event driven paradigms are; their characteristics and the relationship between them
 
-The procedural programming paradigm is concerned with defining a linear procedure or sequence of programming statements. A key feature of the paradigm is the partitioning of functionality into small re-usable modules called procedures, that act like small programs themselves with their own scope, inputs and outputs.
+#### Procedural Paradigm
+The procedural programming paradigm is concerned with defining a linear procedure or sequence of programming statements. A key feature of the paradigm is the partitioning of functionality into small reusable modules called procedures, that act like small programs themselves with their own scope, inputs and outputs.
 
+#### Object Orientated Paradigm
 The object oriented programming paradigm is concerned with modeling problems in terms of entities called objects that have attributes and behaviors and interact with other entities using message passing (calling methods on other entities).
 
-Event-driven programming is a programming paradigm in which the flow of program execution is determined by events - for example a user action such as a mouse click, key press, or a message from the operating system or another program. An event-driven application is designed to detect events as they occur, and then deal with them using an appropriate event-handling procedure. 
+#### Event Driven Paradigm
+Event driven programming is a programming paradigm in which the flow of program execution is determined by events - for example a user action such as a mouse click, key press, or a message from the operating system or another program. An event driven application is designed to detect events as they occur, and then deal with them using an appropriate event-handling procedure. 
 
-Event-driven programming is a programming paradigm in which the flow of program execution is determined by events. An event-driven application is designed to detect events as they occur, and then deal with them using an appropriate event-handling procedure. Many visual programming environments will even provide code templates for event-handlers, so the programmer only needs to provide the code that defines the action the program should take when the event occurs. Each event-handler is usually bound to a specific object or control on a form. Any additional subroutines, methods, or function procedures required are usually placed in a separate code module, and can be called from other parts of the program as and when needed.
+#### Relationship between paradigms
+Event driven programming is a programming paradigm in which the flow of program execution is determined by events. An event-driven application is designed to detect events as they occur, and then deal with them using an appropriate event handling procedure. Many visual programming environments will even provide code templates for event-handlers, so the programmer only needs to provide the code that defines the action the program should take when the event occurs. Each event-handler is usually bound to a specific object or control on a form. Any additional subroutines, methods, or function procedures required are usually placed in a separate code module, and can be called from other parts of the program as and when needed.
 
 
 Before the arrival of object-oriented programming languages, event handlers would have been implemented as subroutines within a procedural program. The flow of program execution was determined by the programmer, and controlled from within the application’s main routine. The complexity of the logic involved required the implementation of a highly structured program. All of the program’s code would be written by the programmer, including the code required to ensure that events and exceptions were handled, as well as the code required to manage the flow of program execution.
