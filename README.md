@@ -15,6 +15,21 @@ When building an application, the process usually follows a lifecycle model, suc
 
 ### M1 Determine the steps taken from writing code to execution
 
+Execution process:
+
+Step 1: Write Source Code(s)
+
+Step 2: Preprocess
+
+Step 3: Compile
+
+Step 4: Link Edit
+
+Step 5: Load
+
+Step 6: Execute
+
+Steps 2, 3, and 4 are all part of the build process, and steps 5 and 6 are part of the run process.
 
 ### P2 Give explanations of what procedural, object orientated and event driven paradigms are; their characteristics and the relationship between them
 
