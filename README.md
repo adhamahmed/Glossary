@@ -43,8 +43,11 @@ The object orientated programming paradigm is concerned with modeling problems i
 Event driven programming is a programming paradigm in which the flow of program execution is determined by events. An event-driven application is designed to detect events as they occur, and then deal with them using an appropriate event handling procedure. Many visual programming environments will even provide code templates for event-handlers, so the programmer only needs to provide the code that defines the action the program should take when the event occurs. Each event-handler is usually bound to a specific object or control on a form. Any additional subroutines, methods, or function procedures required are usually placed in a separate code module, and can be called from other parts of the program as and when needed.
 
 #### Relationship between paradigms
+These paradigms have both similarities and differences which can be found in each other, which can be explained as they have been created one after another in order to solve different problems and keep up with the technology of the time.
+
 Before the arrival of object orientated programming languages, event handlers would have been implemented as subroutines within a procedural program. The flow of program execution was determined by the programmer, and controlled from within the application’s main routine. The complexity of the logic involved required the implementation of a highly structured program. All of the program’s code would be written by the programmer, including the code required to ensure that events and exceptions were handled, as well as the code required to manage the flow of program execution.
-Object orientated and event driven orthogonal, so they can both be used together
+
+Object orientated programming is different to the other two paradigms, as this takes a different approach to the implementation of the code. Instead of writing the code in a logical order or based on inputs, the class is used as a blueprint and the object can take some or all of the behaviours to create different objects.
 
 
 ### M2 Analyse the common features that a developer has access to in an IDE
